@@ -277,6 +277,8 @@ public void test2() {
 
 # 分页
 
+spring data jpa 已内置分页功能和排序功能：
+
 ``` 
 @Test
 public void test3() {
